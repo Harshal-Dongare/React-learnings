@@ -1,4 +1,4 @@
-import Starter from "./tutorial/02_useEffect/04_fetch-data";
+import Starter from "./tutorial/02_useEffect/05_cleanup-functions";
 const App = () => {
     return (
         <div className="container">

@@ -1,9 +1,9 @@
-import UncontrolledInputs from "./tutorial/06_forms/05_form-data";
+import LowerState from "./tutorial/11_performance/01_lower-state";
 
 const App = () => {
     return (
         <div className="container">
-            <UncontrolledInputs />
+            <LowerState />
         </div>
     );
 };

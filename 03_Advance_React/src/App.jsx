@@ -1,8 +1,9 @@
-import Starter from "./tutorial/02_useEffect/05_cleanup-functions";
+import UncontrolledInputs from "./tutorial/06_forms/05_form-data";
+
 const App = () => {
     return (
         <div className="container">
-            <Starter />
+            <UncontrolledInputs />
         </div>
     );
 };
